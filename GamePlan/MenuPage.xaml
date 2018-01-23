@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="GamePlan.MenuPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GamePlan"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Start"         HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,200,0,0" FontSize="50" Width="500" Click="StartButton_Click"/>
+        <Button Content="Calendar"      HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,300,0,0" FontSize="50" Width="500" Click="CalndrButton_Click"/>
+        <Button Content="Settings"      HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,400,0,0" FontSize="50" Width="500" Click="SettngButton_Click"/>
+        <Button Content="Achievements"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,500,0,0" FontSize="50" Width="500" Click="AchievButton_Click"/>
+    </Grid>
+
+</Page>

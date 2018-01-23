@@ -1,0 +1,74 @@
+Goals:
+
+* Notes
+	* Each Local Player with local data memory
+	* Customization (optional)
+			* Skin theme. menu, BMG, SFX
+
+* Outline
+	* Start Menu
+		* Setting:
+			- Customization
+			- Sounds
+			- Back up
+	* Play/ Start:
+		* Exp Bar: Increases when doing/finishing tasks on time
+			   Else, Decreases
+			* Rewards - Customization (free skin [LoL, rainbow] free mini-games, galaxy stars)
+	
+	* Sample1.png described the interface of the gameplay	
+
+* Crazy Ideas
+	* Upload image option
+		* images changes as looking at different tasks/quests
+	* Calendar
+	* Randomizer Priority (Flip a coin, swapping cups, etc.)
+	* Reminder Notification
+	* Challenge (Added Timer for people with "no life")
+	* Optimization on sequential priority list
+	* Sorting tasks/quests
+	* Add Disclaimer before starting the game:
+		"This is a game.
+		 This is a planner.
+		 Your goals, your life.
+		 Your choices, your ends.
+		 Not for those easily triggered.
+		 Not for those easily disturbed.
+		 Game on.
+		 Over out..."
+	* One Big Project with subproblems
+	* New Year Resolution (Goals)
+	* Time
+	* Survey - Used to help pioritze tasks that user create later on based on category such as health, academics, social, spiritual, career, etc.
+	* Memo - for non tasks, for user to quickly jot down.
+
+* Side Project:
+	* We will have an assistant to encourage the user to do well or on time with his/her quests. The assistant's name is going to be "Meiyou." Overtime, Meiyou wil 
+	give comments to the user depending on: number of success tasks completed, number of failed tasks, time played, etc. The user can also talk to Meiyou for fun.
+	Having a conversation with Meiyou does not need to be implemented like an A.I. converstation.
+	Depending on the relationship between the user and Meiyou, the user will have speififc normal and secret endings:
+	* Normal endings:
+		Good: Level 100 - Acheivement - "You earned a medal that certifies you are able (insert inspiration statment here)." Meiyou will say, "I guess you donn't need
+			me to keep nagging you anymore, huh?"
+		Bad: Level 0 (for at least one month) - The game will delete the saved file, and tells the user to move on and get a new life. "Winners are not afraid of losing, but
+			losers are."
+	* Secret ending:
+		Meiyou will talk to the user about reality and virtuality: what it means to have a purpose, an objective - compared to being aimless, like a stray cat on a
+			street in the middle of the night. Meiyou compares the user as an objective seeker, whereas she compares herself as the stray cat. She wonders if the user
+			lives a honest life, or if the user told her lies about completing tasks. 
+			* If lies, she'll ask what is the purpose of a planner that have goals that can't
+			be acheived truthfully. She tells the user that if she has a (life-time) goal, it would be to help the user achieve his biggest goals, as many as possible.
+			But for the user to be dishonest to her, Meiyou disappears, and the user will never be able to get her back during or after the game (the user can reinstall
+			the game planner to get her back.) 
+			* If on the other hand, the user tells truthfully, then Meiyou will tell the user that she is glad about that. She'll
+			tell her goal, and that she feels helping the user is an endless satisfying joruney to help the user achieve almost everything. 
+
+		* Note: Before the secret ending, Meiyou would give slices of life regarding sucess, failure, anxiety, depression, and passion, (and maybe more).
+	* Feel free to add implmentations for interactions with Meiyou
+
+	* If Meiyou feels left out by the user not using the game planner often, eventually, she'll leave a good-bye note to the user and disappears forever.
+
+Steps
+Pre-requiste: C#
+1) Learn GUI basics 
+2) Next week, Janurary 6th, 2017; Caffe Bene, work on GUI, 

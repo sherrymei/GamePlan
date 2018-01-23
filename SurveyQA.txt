@@ -1,0 +1,46 @@
+What is your name?
+---User inserts his/her name---
+Hello -inserts username-. Welcome to the registration of -inserts place name-. I am one of the guardians of the heroes. Let me tell you that there are four classes to go from.
+However, you don't get to pick one as the selection will be based on the responses you will give to the questions I will ask.
+
+Reference: A) Warrior B) Bowman C) Mage D) Rogue
+
+Q1: Imagine receiving a list of quests. How will you encounter them first?
+	A) Start the one that takes a lot of time and effort.
+	B) Take multiple small quests at a time.
+	C) Complete the ones that are beneficial.
+	D) Take down the one that has highest priority.
+
+Q2: Imagine you are having difficulty with your quest? How will you overcome it?
+	A) Adapt the struggles of the quest.
+	B) Deal the quest piece by piece.
+	C) Call for help or look for resources.
+	D) Handle the quest at a different angle.
+
+Q3:
+
+Q4:
+
+Q5:
+
+Q6:
+
+Q7:
+
+Q8: Which one of these do you value most?
+	A) Friends and Families
+	B) Health
+	C) Knowledge
+	D) Career
+
+Q9: Which one of these best describes you?
+	A) Trustworthy
+	B) Supportive
+	C) Helpful
+	D) Vigilant
+
+Q10: Suppose there's a tragedy happening during your quest. What would you do?
+	A) Stop the quest, and get involved resolving the tragedy.
+	B) Try to resolve the issue for a quick moment. Then continue my quest.
+	C) Spread word to my commardes to get them investigate the issue.
+	D) If it doesn't concerns me, I'll ignore it.
